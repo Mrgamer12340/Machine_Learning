@@ -1,0 +1,11 @@
+marks =[]
+a1 = int(input("please enter your marks :"))
+marks.append(a1)
+a2 = int(input("please enter your marks :"))
+marks.append(a2)
+a3 =int(input("please enter your marks :"))
+marks.append(a3)
+a4 = int(input("please enter your marks :"))
+marks.append(a4)
+marks.sort()
+print(marks)
