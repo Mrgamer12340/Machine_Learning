@@ -1,0 +1,5 @@
+breed,petname,color,ownernumber,age,gender
+Labrador,Max,Black,101,3,Male
+Poodle,,White,102,5,Female
+Bulldog,Charlie,Brown,103,2,Male
+Beagle,Lucy,Tricolor,104,4,Female
